@@ -1,6 +1,6 @@
 Dataset : https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
-colab_file_link : https://colab.research.google.com/drive/1_Ri0E1uYEF1E0Xb4mOMLvPvwO-N-1teq
+colab_file_link : https://colab.research.google.com/drive/1_Ri0E1uYEF1E0Xb4mOMLvPvwO-N-1teq?usp=sharing
 
 
 
