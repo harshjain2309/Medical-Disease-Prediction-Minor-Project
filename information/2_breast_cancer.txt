@@ -1,6 +1,6 @@
 Dataset : https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
 
-colab_file_link : https://colab.research.google.com/drive/1Zm4JEM8M8W0Opw74NtQl4FvkXv9v1oQE
+colab_file_link : https://colab.research.google.com/drive/1Zm4JEM8M8W0Opw74NtQl4FvkXv9v1oQE?usp=sharing
 
 
 
