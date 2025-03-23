@@ -1,6 +1,6 @@
 Dataset : https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset
 
-colab_file_link : https://colab.research.google.com/drive/170qQ7Z_jd958z0h3gFxSzQd4sGmUxuuz
+colab_file_link : https://colab.research.google.com/drive/1Zm4JEM8M8W0Opw74NtQl4FvkXv9v1oQE?usp=sharing
 
 
 
